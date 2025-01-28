@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Projeto resultado de curso intensivo Java + Spring Boot de uma lista de jogos, com consultas SQL que retornam informações completas ou resumidas, bem como a lista de jogos. Apenas a parte Back-End contemplada aqui.<br><br>Utilizando Java com Spring Boot JPA, Docker e Postgres.<br><br>Padrão de camadas, com DTO, Controllers e Repositories.</p>
+<p align="left">Projeto resultado de curso intensivo Java + Spring Boot de uma lista de jogos, com consultas SQL que retornam informações completas ou resumidas, bem como a lista de jogos. Apenas a parte Back-End contemplada aqui.<br><br>Utilizando Java com Spring Boot JPA, Docker e PostgreSQL.<br><br>Padrão de camadas, com DTO, Controllers e Repositories.</p>
 
 ###
 
